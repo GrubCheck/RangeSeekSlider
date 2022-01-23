@@ -9,7 +9,7 @@ let package = Package(
     targets: [
         .target(
             name: "RangeSeekSlider",
-            path: "RangeSeekSlider"
+            path: "Sources"
         )
     ]
 )
